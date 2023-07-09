@@ -1,3 +1,3 @@
-# reactjs-template
+# reactjs-vite-template
 
-My Template for React Js Apps
+My Template for React Apps in Vite js framework
