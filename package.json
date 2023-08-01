@@ -1,8 +1,12 @@
 {
-  "name": "reactjs-template",
-  "author": "Harsh Vyapari",
+  "name": "reactjs-vite-template",
+  "author": {
+    "name": "Harsh Vyapari",
+    "email": "harshv1741@gmail.com"
+  },
+  "description": "Reactjs Vite Template",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -23,6 +27,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.1",
     "prettier": "^3.0.0",
+    "prettier-plugin-tailwindcss": "^0.4.1",
     "vite": "^4.4.0"
   }
 }
